@@ -53,7 +53,7 @@ function Citylist({ city }) {
 function Announce() {
   return (
     <p className={styles.message}>
-      Enter your first City bt clicking on the map
+      Enter your first City by clicking on the map
     </p>
   );
 }
