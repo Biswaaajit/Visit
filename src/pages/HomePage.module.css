@@ -3,7 +3,7 @@
       rgba(21, 17, 17, 0.888),
       rgba(39, 194, 186, 0.256)
     ),
-    url("homepage.jpg");
+    url("/homepage.jpg");
   height: 1000px;
   width: 100%;
   background-position: center;
