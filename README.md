@@ -1,8 +1,7 @@
 
 # stopOver Web Application
 
-This web app keeps the track of user travels in a world map. I used a fake API to store and fetch data. When a user click on the map a form appears to add to the list of the user travel. 
-
+This web application keep track of user travels .I used third parties libraries like React-Router and Leaflet to make this react web application.This application have fully functioning navbar which takes to different components onclicking on it using React-Router.There is also a world map where user's travel places are marked based on initial datafetched from fake API.When user click "start tracking now" button it takes to component where on its leftsidea list is rendered and right-side a map is rendered. When user click on the mapform appears on left-side and on filling the details it get added to the cities list.On clicking on countries tab its also shows the countries user has visited.
 
 ## Deployment
 
